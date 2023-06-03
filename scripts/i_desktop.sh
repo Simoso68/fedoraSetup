@@ -1,0 +1,1 @@
+flatpak install flathub io.github.shiftey.Desktop -y
